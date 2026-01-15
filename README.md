@@ -159,7 +159,7 @@ See [ROADMAP.md](ROADMAP.md).
 
 ## Governance
 ### Maintainer / Project Admin
-- **Project Admin:** Your Name
+- **Project Admin:** Krishnendu Ghosh
 - Response SLA:
   - Issues: 24–48 hrs
   - PR Review: 48–72 hrs
