@@ -1,0 +1,48 @@
+{
+  "topic": "CPU Scheduling",
+  "keywords": [
+    "cpu scheduling",
+    "fcfs",
+    "sjf",
+    "srtf",
+    "round robin",
+    "waiting time",
+    "turnaround time"
+  ],
+  "mcq": [
+    {
+      "question": "Which scheduling algorithm is non-preemptive?",
+      "options": [
+        "Round Robin",
+        "FCFS",
+        "SRTF",
+        "Preemptive Priority"
+      ],
+      "answerIndex": 1,
+      "difficulty": "easy",
+      "explanation": "FCFS (First Come First Serve) is non-preemptive."
+    },
+    {
+      "question": "Which algorithm is best for minimizing average waiting time (ideal case)?",
+      "options": [
+        "FCFS",
+        "SJF",
+        "Round Robin",
+        "Priority"
+      ],
+      "answerIndex": 1,
+      "difficulty": "medium",
+      "explanation": "SJF tends to minimize average waiting time when burst time is known."
+    }
+  ],
+  "short": [
+    {
+      "question": "Define waiting time in CPU scheduling.",
+      "answer": "Waiting time is the total time a process spends in the ready queue waiting for CPU."
+    },
+    {
+      "question": "What is turnaround time?",
+      "answer": "Turnaround time is the total time from submission/arrival of a process to its completion."
+    }
+  ]
+}
