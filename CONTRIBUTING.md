@@ -15,7 +15,7 @@ This project follows the rules in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). By c
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/<your-username>/QuizForgeAI.git
+   git clone https://github.com/techkrishnendu29/QuizForgeAI.git
    ```
 3. Open `android-app/` in Android Studio
 4. Sync Gradle and run the app
